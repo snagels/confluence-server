@@ -1,4 +1,4 @@
-FROM oracle/JDK:8
+FROM kurron/docker-oracle-jdk-8
 MAINTAINER Atlassian Confluence
 
 # Setup useful environment variables
